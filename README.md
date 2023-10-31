@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossam&label=Profile%20views&color=0e75b6&style=flat" alt="hossam" /> </p>
 
-- 🔭 I’m currently working on **E-commerce website**
+- 🔭 I’m currently working on **Link Development**
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [Hossam Eisa](https://github.com/HossamEisa/)
 
