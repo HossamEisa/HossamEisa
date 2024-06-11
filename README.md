@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [Hossam Eisa](https://github.com/HossamEisa/)
 
-- 💬 Ask me about **HTML, CSS, SASS, JavaScript, Vuejs, Bootstrap, and Angular**
+- 💬 Ask me about **HTML, CSS, SASS, JavaScript, TypeScript, Vuejs, Bootstrap, and React JS**
 
 - 📫 How to reach me **eng.hossameisa@gmail.com**
 
