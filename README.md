@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Hossam Eisa</h1>
-<h3 align="center">A passionate Front-End developer from Egypt with experience in HTML, CSS, JS, Vuejs, and Angular</h3>
+<h3 align="center">A passionate Front-End developer from Egypt with experience in HTML, CSS, JS, Vuejs, and React js</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hossam&label=Profile%20views&color=0e75b6&style=flat" alt="hossam" /> </p>
