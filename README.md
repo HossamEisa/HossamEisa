@@ -14,7 +14,7 @@
 - 🧠 Focused on reusable components, custom hooks, context-based state, and modern UI patterns
 - 🧩 Experienced with:
   - React, Vue, TypeScript, JavaScript
-  - HTML, CSS, SCSS/SASS, Bootstrap
+  - HTML, CSS, SCSS/SASS, Bootstrap, Tailwind
   - Form builders, dynamic filters, and i18n
   - React Beautiful DnD, Context API, useReducer, and async patterns
 
